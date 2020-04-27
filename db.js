@@ -15,7 +15,7 @@ CREATE TABLE IF NOT EXISTS ideas(
     );
 
 `)
-
+//  QUALQUER COISA
  // inserir dados
 // const query = `
 // INSERT INTO ideas(
